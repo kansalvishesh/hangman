@@ -254,10 +254,5 @@ The application allows multiple players to join a game room, where they can gues
     ```
     Authorization: Basic dGVzdHVzZXI6cGFzc3dvcmQxMjM=
     ```
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/hangman-game.git
-cd hangman-game
+  
 
