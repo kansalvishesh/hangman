@@ -16,9 +16,3 @@ public class HangmanMain {
         }
     }
 }
-
-//test cases:
-//user already present.
-//no auth headers sent.
-//trying to send api without login.
-//
